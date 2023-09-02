@@ -1,2 +1,3 @@
-# privacy-policy
-Privacy policies for our projects
+# Privacy Policy
+
+We take the privacy of our users very seriously and are committed to protecting it.
